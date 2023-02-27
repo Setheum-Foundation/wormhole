@@ -36,7 +36,7 @@
     "@solana/web3.js": "^1.31.0",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.6.1",
-    "ethers": "^5.4.4",
+    "ethers": "^6.0.8",
     "jest": "^27.3.1",
     "prettier": "^2.3.2",
     "ts-jest": "^27.0.7",
